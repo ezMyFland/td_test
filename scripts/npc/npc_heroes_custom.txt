@@ -1,0 +1,9 @@
+"DOTAHeroes"
+{
+    "rubick"
+    {
+        "override_hero"    "npc_dota_hero_rubick"
+        "Model"            "models/heroes/rubick/rubick.vmdl"
+        "StatusHealth"     "150"
+    }
+}
